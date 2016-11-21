@@ -1,7 +1,7 @@
 /** 
  * @Authors: Blaze, KCF
  * 
- * @Websites: www.kingcodefish.com
+ * @Websites: https://blazeprogramming.github.io/ https://www.kingcodefish.com/
  */
 var checkTime = function(i) {
     if (i < 10) {
